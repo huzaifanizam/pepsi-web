@@ -1,0 +1,115 @@
+body{
+    background-color: #0065c3;
+}
+
+.header{
+    display: flex;
+    padding: 27px;
+    justify-content: space-between;
+    position: sticky;
+    top: 0% auto;
+}
+
+.logo{
+    height: 50px;
+}
+.nav{
+    padding: 16p;
+}
+
+
+.nav{
+    padding: 16p;
+
+}
+.top{
+color: white;
+text-align: center;
+list-style: none;
+}
+
+.button{
+    border-radius: 22px;
+    background-color:#0065c3 ;
+    color: white;
+    border-color: white;
+    height: 35px;
+    width: 187px;
+}
+
+
+/* top end*/
+
+
+
+.firstimg{
+    width: 99%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* legs */
+.legs{
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+
+}
+
+.img{
+    height: 200px;
+    width: 166px;
+}
+
+
+
+
+
+
+/* footer */
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 2.5%
+
+}
+.heading{
+    display: inline;
+}
+
+.lastbutton{
+    padding: 0.4em 1.85em;
+    border: 2px solid #fff;
+    border-radius: 1.8em;
+    background: transparent;
+    color: #fff;
+}
+.second{
+    color: #fff;
+}
+
